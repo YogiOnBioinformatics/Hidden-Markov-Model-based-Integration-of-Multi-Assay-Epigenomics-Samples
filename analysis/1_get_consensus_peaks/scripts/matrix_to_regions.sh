@@ -1,0 +1,1 @@
+cut -f1-3 /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/1_get_consensus_peaks/output/matrix.tsv > /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/1_get_consensus_peaks/output/regions.tsv
