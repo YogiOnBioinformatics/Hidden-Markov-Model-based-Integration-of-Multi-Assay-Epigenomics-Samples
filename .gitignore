@@ -3,3 +3,4 @@ matrix.tsv
 Untitled.ipynb
 analysis/4_prepMat/output/bed_files/
 analysis/2_define_input_regions/output/all_regions.bed
+analysis/4_prepMat/output/averaged_bed_files/
