@@ -1,0 +1,24 @@
+id=ES_stage		#job id, also used as output file names
+email= yraghav@mit.edu
+thread= 60		#number of threads to be used for parallelization
+
+prepmat= 0		#1: preprocess data, 0: for data already processed for ideas
+build= hg38 		#hg19, hg38, mm9, mm10, not used if bedfile is specified
+prenorm= 0		#1: normalize data (assumed 100Million reads in total), 0: do not normalize
+bed= /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed
+sig= mean		#mean: mean signal per window, max: max signal per window
+
+ideas= 1		#1: run ideas, 0: not run ideas
+train= 100		#number of random starts, used to select states, 0: no training
+trainsz= 500000
+log2= 0			#take log2(x+num), 0: do not take log2
+cap= 9275			#maximum signal is capped at 16
+norm= 0			#1: standardize by mean and std, 0: no normalization
+num_state= 0		#specify number of states for the model, 0: let program determine
+num_start= 100		#specify number of states at the initialization stage
+minerr= 0.5		#minimum standard deviation in each state, usually between (0,1]
+smooth= 0		#make states more homogeneous along genome, 0: original ideas
+burnin= 20		#number of burnins, include both sampling and maximization
+sample= 5		#number of steps for maximization, 1 may be fine
+split= /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed.inv
+impute= None		#specify which marks to be imputed; or All or None
