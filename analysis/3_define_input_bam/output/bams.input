@@ -17,7 +17,7 @@
 20-20 H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/20-20_H3K4me3_rep1_210115Fra_D20-5407-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 22-20 ATAC_rep2 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraB_D20-6808_1.trim.nodup.no_chrM_MT.bam
 22-20 ATAC_rep1 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraA_D20-6801_1.trim.nodup.no_chrM_MT.bam
-22-20 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/22-20_rep3_210203Fra_D21-1100_1.trim.merged.nodup.no_chrM_MT.bam
+22-20 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/22-20_rep3_210203Fra_D21-1100_1.trim.merged.nodup.no_chrM_MT.bam
 22-20 H3K27Ac_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K27Ac_rep3_210115Fra_D20-4763-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 22-20 H3K27Ac_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K27Ac_rep2_210115Fra_D20-3773-2_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 22-20 H3K27Ac_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K27Ac_rep1_210115Fra_D20-5402-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
@@ -32,7 +32,7 @@
 22-20 H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K4me3_rep1_210115Fra_D20-5404-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 22-20 H3K4me3_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K4me3_rep2_210115Fra_D20-3772-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 22-20 H3K4me3_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/22-20_H3K4me3_rep3_210115Fra_D20-4762-2_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
-56-22 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/56-22_rep3_210203Fra_D21-1101_1.trim.merged.nodup.no_chrM_MT.bam
+56-22 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/56-22_rep3_210203Fra_D21-1101_1.trim.merged.nodup.no_chrM_MT.bam
 56-22 ATAC_rep1 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraA_D20-6803_1.trim.nodup.no_chrM_MT.bam
 56-22 ATAC_rep2 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraB_D20-7056_1.trim.nodup.no_chrM_MT.bam
 56-22 H3K27Ac_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/56-22_H3K27Ac_rep3_210115Fra_D20-4894-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
@@ -48,7 +48,7 @@
 56-22 H3K4me3_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/56-22_H3K4me3_rep2_210115Fra_D20-3778-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 56-22 H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/56-22_H3K4me3_rep1_210115Fra_D20-5524-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 56-22 H3K4me3_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/56-22_H3K4me3_rep3_210115Fra_D20-3540-2_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
-72-20 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/72-20_rep3_210203Fra_D21-1102_1.trim.merged.nodup.no_chrM_MT.bam
+72-20 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/72-20_rep3_210203Fra_D21-1102_1.trim.merged.nodup.no_chrM_MT.bam
 72-20 ATAC_rep1 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraA_D20-6804_1.trim.nodup.no_chrM_MT.bam
 72-20 ATAC_rep2 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraB_D20-6811_1.trim.nodup.no_chrM_MT.bam
 72-20 H3K27Ac_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/72-20_H3K27Ac_rep1_210115Fra_D20-5526-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
@@ -63,9 +63,9 @@
 72-20 H3K4me3_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/72-20_H3K4me3_rep2_210115Fra_D20-5201-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 72-20 H3K4me3_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/72-20_H3K4me3_rep3_210115Fra_D20-3541-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 72-20 H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/72-20_H3K4me3_rep1_210115Fra_D20-5527-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
-73-21-KD ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/73-21_KD_rep3_210203Fra_D21-1105_1.trim.merged.nodup.no_chrM_MT.bam
-73-21-KD ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/12-24-2020/2_BAMS/201209FraB_D20-6814_1.trim.nodup.no_chrM_MT.bam
-73-21-KD ATAC_rep1 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/12-24-2020/2_BAMS/201209FraA_D20-6807_1.trim.nodup.no_chrM_MT.bam
+73-21-KD ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/73-21_KD_rep3_210203Fra_D21-1105_1.trim.merged.nodup.no_chrM_MT.bam
+73-21-KD ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/12-24-2020/2_BAMS/201209FraB_D20-6814_1.trim.nodup.no_chrM_MT.bam
+73-21-KD ATAC_rep1 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/12-24-2020/2_BAMS/201209FraA_D20-6807_1.trim.nodup.no_chrM_MT.bam
 73-21-KD H3K27Ac_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K27Ac_rep2_210115Fra_D20-5298-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21-KD H3K27Ac_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K27Ac_rep3_210115Fra_D20-3517-1_NA_sequence.merged.nodup.no_chrM_MT.bam
 73-21-KD H3K27Ac_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K27Ac_rep1_210115Fra_D20-5801-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
@@ -79,9 +79,9 @@
 73-21-KD H3K4me1_rep1-1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K4me1_rep1-1_210115Fra_D20-5803-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21-KD H3K4me3_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K4me3_rep3_210115Fra_D20-3516-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21-KD H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21-KD_H3K4me3_rep1_210115Fra_D20-4309-2_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
-73-21 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/73-21_rep3_210203Fra_D21-1104_1.trim.merged.nodup.no_chrM_MT.bam
-73-21 ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/12-24-2020/2_BAMS/201209FraB_D20-6813_1.trim.nodup.no_chrM_MT.bam
-73-21 ATAC_rep1 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/12-24-2020/2_BAMS/201209FraA_D20-6806_1.trim.nodup.no_chrM_MT.bam
+73-21 ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/73-21_rep3_210203Fra_D21-1104_1.trim.merged.nodup.no_chrM_MT.bam
+73-21 ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/12-24-2020/2_BAMS/201209FraB_D20-6813_1.trim.nodup.no_chrM_MT.bam
+73-21 ATAC_rep1 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/12-24-2020/2_BAMS/201209FraA_D20-6806_1.trim.nodup.no_chrM_MT.bam
 73-21 H3K27Ac_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21_H3K27Ac_rep2_210115Fra_D20-5296-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21 H3K27Ac_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21_H3K27Ac_rep1_210115Fra_D20-5578-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21 H3K27Ac_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21_H3K27Ac_rep3_210115Fra_D20-4929-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
@@ -94,8 +94,8 @@
 73-21 H3K4me3_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21_H3K4me3_rep3_210115Fra_D20-3514-1_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 73-21 H3K4me3_rep1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/73-21_H3K4me3_rep1_210115Fra_D20-4931-4_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 KO ATAC_rep1 /nfs/latdata/yraghav/CHDI/atac/old_CRISPR-KO_56-22_and_72-20/atac_bams/201209FraA_D20-6805_1.trim.nodup.no_chrM_MT.bam
-KO ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/KO_rep3_210203Fra_D21-1103_1.trim.merged.nodup.no_chrM_MT.bam
-KO ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/KO_rep2_210203Fra_D21-1106_1.trim.merged.nodup.no_chrM_MT.bam
+KO ATAC_rep3 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/KO_rep3_210203Fra_D21-1103_1.trim.merged.nodup.no_chrM_MT.bam
+KO ATAC_rep2 /pool/data/globus/fraenkel_internal/CHDI_NeuroLINCS/first_phase/CHDI_data/atac/feburary_2021_resequencing_of_december_batch/combining_data/2_BAMS/KO_rep2_210203Fra_D21-1106_1.trim.merged.nodup.no_chrM_MT.bam
 KO H3K27Ac_rep3-1 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/KO_H3K27Ac_rep3-1_210115Fra_D20-4927-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 KO H3K27Ac_rep3 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/KO_H3K27Ac_rep3_210115Fra_D20-3512-2_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
 KO H3K27Ac_rep2 /nfs/latdata/yraghav/CHDI/chip/high_coverage_chip/2_BAMS/KO_H3K27Ac_rep2_210115Fra_D20-5203-3_NA_sequence.fastq.merged.nodup.no_chrM_MT.bam
