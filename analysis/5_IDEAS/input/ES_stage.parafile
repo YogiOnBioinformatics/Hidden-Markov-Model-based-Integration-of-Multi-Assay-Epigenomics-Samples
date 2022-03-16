@@ -9,7 +9,7 @@ bed= /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_defin
 sig= mean		#mean: mean signal per window, max: max signal per window
 
 ideas= 1		#1: run ideas, 0: not run ideas
-train= 100		#number of random starts, used to select states, 0: no training
+train= 200		#number of random starts, used to select states, 0: no training
 trainsz= 500000
 log2= 0			#take log2(x+num), 0: do not take log2
 cap= 9275			#maximum signal is capped at 16
