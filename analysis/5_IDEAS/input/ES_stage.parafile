@@ -1,5 +1,5 @@
 id=ES_stage		#job id, also used as output file names
-email= yraghav@mit.edu
+email=yraghav@mit.edu
 thread= 60		#number of threads to be used for parallelization
 
 prepmat= 0		#1: preprocess data, 0: for data already processed for ideas
