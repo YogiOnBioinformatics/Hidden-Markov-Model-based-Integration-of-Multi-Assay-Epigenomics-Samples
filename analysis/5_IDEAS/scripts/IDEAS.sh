@@ -8,4 +8,4 @@ time Rscript \
     /home/yraghav/IDEAS/IDEAS_2018/bin/runme.R \
     /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/4_prepMat/output/ES_stage.input \
     /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/5_IDEAS/input/ES_stage.parafile \
-    /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/
+    /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/15_states/no_normalization/averaging/
