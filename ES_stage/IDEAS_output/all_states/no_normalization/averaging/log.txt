@@ -1,0 +1,13 @@
+------[ IDEAS Analysis ]------
+Thu Mar 24 14:01:08 2022
+Rscript bin/ideaspipe.R /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/4_prepMat/output/ES_stage.input /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed -o /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/no_normalization/averaging/test -sample 20 5 -thread 60 -randstart 200 500000 -split /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed.inv -impute None -C 100 -minerr 0.5 -cap 9275
+------[ Create Custom Tracks ]------
+Fri Mar 25 03:44:26 2022
+Tracks created successfully in /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/no_normalization/averaging/Tracks/
+
+Fri Mar 25 04:30:17 2022
+The hub url is  /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/no_normalization/averaging/Tracks/hub_test.txt
+A direct link to the VISION browser is http://main.genome-browser.bx.psu.edu/cgi-bin/hgTracks?db=hg38&hubUrl=/home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/no_normalization/averaging/Tracks/hub_test.txt
+
+Done!
+

@@ -1,0 +1,77 @@
+track bigBed1
+priority 1
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.1.bb
+shortLabel 20-20
+longLabel test 20-20
+color 0,0,0
+visibility dense
+
+track bigBed2
+priority 2
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.2.bb
+shortLabel 22-20
+longLabel test 22-20
+color 0,0,0
+visibility dense
+
+track bigBed3
+priority 3
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.3.bb
+shortLabel 56-22
+longLabel test 56-22
+color 0,0,0
+visibility dense
+
+track bigBed4
+priority 4
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.4.bb
+shortLabel 72-20
+longLabel test 72-20
+color 0,0,0
+visibility dense
+
+track bigBed5
+priority 5
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.5.bb
+shortLabel 73-21-KD
+longLabel test 73-21-KD
+color 0,0,0
+visibility dense
+
+track bigBed6
+priority 6
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.6.bb
+shortLabel 73-21
+longLabel test 73-21
+color 0,0,0
+visibility dense
+
+track bigBed7
+priority 7
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.7.bb
+shortLabel KO
+longLabel test KO
+color 0,0,0
+visibility dense
+
