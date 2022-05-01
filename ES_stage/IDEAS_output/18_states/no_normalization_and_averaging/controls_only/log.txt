@@ -1,0 +1,18 @@
+------[ IDEAS Analysis ]------
+Fri Apr 22 14:02:56 2022
+Rscript bin/ideaspipe.R /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/4_prepMat/output/ES_stage_controls_only.input /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed -o /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/18_states/no_normalization_and_averaging/controls_only/test -sample 20 5 -thread 30 -randstart 200 500000 -split /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed.inv -impute None -G 18 -C 18 -minerr 0.5 -cap 9275
+------[ Create Custom Tracks ]------
+Fri Apr 22 14:03:23 2022
+------[ IDEAS Analysis ]------
+Fri Apr 22 14:18:56 2022
+Rscript bin/ideaspipe.R /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/4_prepMat/output/ES_stage_controls_only.input /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed -o /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/18_states/no_normalization_and_averaging/controls_only/test -sample 20 5 -thread 30 -randstart 200 500000 -split /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/analysis/2_define_input_regions/output/all_regions.bed.inv -impute None -G 18 -C 18 -minerr 0.5 -cap 9275
+------[ Create Custom Tracks ]------
+Fri Apr 22 19:38:35 2022
+Tracks created successfully in /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/18_states/no_normalization_and_averaging/controls_only/Tracks/
+
+Fri Apr 22 20:21:59 2022
+The hub url is  /home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/18_states/no_normalization_and_averaging/controls_only/Tracks/hub_test.txt
+A direct link to the VISION browser is http://main.genome-browser.bx.psu.edu/cgi-bin/hgTracks?db=hg38&hubUrl=/home/yraghav/CHDI-NeuroLINCS-Multi-Epigenomics-Annotation/ES_stage/IDEAS_output/18_states/no_normalization_and_averaging/controls_only/Tracks/hub_test.txt
+
+Done!
+

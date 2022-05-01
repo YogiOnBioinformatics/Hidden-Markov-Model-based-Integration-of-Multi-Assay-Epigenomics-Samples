@@ -1,0 +1,5 @@
+hub test
+shortLabel test
+longLabel test
+genomesFile genomes_test.txt
+email yzz2 at psu.edu

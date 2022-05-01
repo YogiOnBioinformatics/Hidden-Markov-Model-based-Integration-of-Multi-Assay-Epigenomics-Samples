@@ -1,0 +1,22 @@
+track bigBed1
+priority 1
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.1.bb
+shortLabel 20-20
+longLabel test 20-20
+color 0,0,0
+visibility dense
+
+track bigBed2
+priority 2
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~yuzhang/tmp/test.2.bb
+shortLabel 22-20
+longLabel test 22-20
+color 0,0,0
+visibility dense
+
